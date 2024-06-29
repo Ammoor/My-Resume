@@ -1,10 +1,14 @@
-# My-CV
-This repo will contain the latest version of my CV and will show all the versions of it.
+This repo will contain the latest version of my CV and will show all the previous versions of it.
 
-I used [FlowCV](https://app.flowcv.com/dashboard) to make my CV because it has many advantages:
+I used [FlowCV](https://app.flowcv.com/dashboard) to make the CV because it has many advantages **:**
  - Easy to use and understand
  - Easy to customize your own CV and modify it
+ - Has many features and options
  - Has many CV templates that follow the ATS rules
  - All the needed funcitions is totally free and some extra utilities are paid
 
-If you have any feedback on CV, please let me know.
+The CV score in [Resume Worder](https://resumeworded.com/) is **40/100**. 😅
+
+If you like the CV template, you can find similar ones in **classic templates section**.
+
+If you have any feedback on the CV, please let me know.
