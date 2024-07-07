@@ -7,7 +7,7 @@ I used [FlowCV](https://app.flowcv.com/dashboard) to make the CV because it has 
  - Has many CV templates that follow the ATS rules
  - All the needed funcitions is totally free and some extra utilities are paid
 
-The current CV score in [Resume Worder](https://resumeworded.com/) is **40/100**. 😅
+The current CV score in [Resume Worder](https://resumeworded.com/) is **46/100**. 😅
 
 If you like the CV template, you can find similar ones in **classic templates section**.
 
