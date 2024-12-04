@@ -1,14 +1,14 @@
-This repo will contain the latest version of my CV and will show all the previous versions of it.
+This repo contains my resume's latest version and shows all its previous versions.
 
-I used [FlowCV](https://app.flowcv.com/dashboard) to make the CV because it has many advantages **:**
+I used [FlowCV](https://app.flowcv.com/dashboard) to make the resume because it has many advantages **:**
  - Easy to use and understand
- - Easy to customize your CV and modify it
+ - Easy to customize your resume and modify it
  - Has many features and options
- - Has many CV templates that follow the ATS rules
+ - Has many resume templates that follow the ATS rules
  - All the needed functions are totally free and some extra utilities are paid
 
-The current CV **ATS** score in [Resume Worder](https://resumeworded.com/) is **66/100**.
+The current resume **ATS** score in [Resume Worder](https://resumeworded.com/) is **72/100**.
 
-If you like the CV template, you can find similar ones in the **classic templates section**.
+If you like the resume template, you can find similar ones in the **classic templates section**.
 
-If you have any feedback on the CV, please let me know.
+If you have any feedback on the resume, please let me know.
